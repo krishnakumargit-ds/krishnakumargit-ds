@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/krishnakumargit-ds">GitHub</a> •
-  <a href="https://www.linkedin.com/in/krishna-kumar-bbb008400//">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/krishna-kumar-bbb008400/">LinkedIn</a>
 </p>
 
 ---
